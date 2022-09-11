@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1662879620 source:d:\coding\c++\oops\cross the road\main.cpp
+	"cGame.h"
+	"cLane.h"
+	"cPlayer.h"
+	<bits/stdc++.h>
+	<time.h>
+	<conio.h>
+
+1662881467 d:\coding\c++\oops\cross the road\include\cgame.h
+	"cPlayer.h"
+	"cLane.h"
+	<bits/stdc++.h>
+
+1662880601 d:\coding\c++\oops\cross the road\include\clane.h
+	<bits/stdc++.h>
+
+1662876071 d:\coding\c++\oops\cross the road\include\cplayer.h
+
+1662880116 source:d:\coding\c++\oops\cross the road\src\cgame.cpp
+	"cGame.h"
+	<bits/stdc++.h>
+	<conio.h>
+
+1662873293 source:d:\coding\c++\oops\cross the road\src\cplayer.cpp
+	"cPlayer.h"
+	<bits/stdc++.h>
+
+1662880635 source:d:\coding\c++\oops\cross the road\src\clane.cpp
+	"cLane.h"
+	<bits/stdc++.h>
+
